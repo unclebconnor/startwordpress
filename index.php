@@ -1,5 +1,5 @@
-<?php get_header(); ?>
-
+<?php get_header(); ?> 
+<div>somenonsense</div>
 	<div class="row">
 	  <div class="col-sm-8 blog-main">
 	  	<?php 
